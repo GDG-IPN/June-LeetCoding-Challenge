@@ -19,7 +19,7 @@ class Solution:
 ```
 
 ``` Python
-# Solución usando una stack
+# Solución usando una queue
 class Solution:
     def invertTree(self, root):
 
